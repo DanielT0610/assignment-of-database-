@@ -18,8 +18,9 @@ c.	Lessons learnt
 7.	Work Distribution list 
 8.	Conclusion
 9.	Reference		
- 
-1. Introducing – Music concert management system
+
+ 
+1 Introducing – Music concert management system
 This database was established mainly to store information about members and customers who purchased concert tickets. This records the member's basic information, concert categories, member points and payment methods. This data can be used to understand the number of people using different payment methods, the number of people attending different concerts, how many points there are... We hope that organizers can store the data in this universal database to reduce the time spent checking data.
 
 2. Business rules
